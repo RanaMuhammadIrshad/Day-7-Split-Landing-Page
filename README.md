@@ -1,1 +1,1 @@
-# Day-7-Split-Landing-Page
+# Split-Landing-Page
